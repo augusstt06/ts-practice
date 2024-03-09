@@ -4,6 +4,8 @@
 
 [Typescript Docs](https://www.typescriptlang.org/docs/)
 
+[Typescript Exercise](https://typescript-exercises.github.io/#exercise=5&file=%2Findex.ts)
+
 ```
 ├── README.md
 ├── concept (타입스크립트 문법 익히기)
