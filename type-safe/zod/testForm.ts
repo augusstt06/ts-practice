@@ -28,4 +28,4 @@ const verifyPassword = (password: PasswordSchema) => {
   }
 };
 
-verifyPassword("rlacnddus06!");
+verifyPassword("password123!@");
